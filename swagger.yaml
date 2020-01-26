@@ -1,10 +1,10 @@
 swagger: '2.0'
 info:
   version: '1.0.0'
-  title: Tomochain JSON-RPC
+  title: Rupaya JSON-RPC
   description: A collection holding all the Tomochain JSON​ RPC API calls
   contact: {}
-host: rpc.tomochain.com
+host: socket.tomochain.com:7050
 basePath: /
 schemes:
 - https

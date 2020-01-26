@@ -4,7 +4,7 @@ info:
   title: Rupaya JSON-RPC
   description: A collection holding all the Tomochain JSON​ RPC API calls
   contact: {}
-host: socket.tomochain.com:7050
+host: socket.tomochain.com
 basePath: /
 schemes:
 - https
